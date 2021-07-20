@@ -1,0 +1,1 @@
+{"name":"icns-preview","version":"0.0.1","dependencies":{"@fiahfy/icns":{"version":"0.0.7","dependencies":{"@fiahfy/packbits":{"version":"0.0.6"},"pngjs":{"version":"6.0.0"}}}}}
